@@ -1,7 +1,7 @@
 Data Compression
 ===============
 
-This is a data compression application written in C++. The application utilizes Huffman Coding to achieve compression. Files can be compressed and later uncompressed.
+This is a data compression application written in C++. The application utilizes Huffman Coding to achieve compression. Files can be compressed and later, uncompressed.
 
 <h3>Usage</h3>
 1) Download the source and type 'make'<br>
