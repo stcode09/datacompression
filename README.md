@@ -1,2 +1,2 @@
-datacompression
+Data Compression
 ===============
